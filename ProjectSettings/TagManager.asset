@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Lava
+    uniqueID: 1994199503
+    locked: 0
+  - name: Walls
+    uniqueID: 2544063711
+    locked: 0
+  - name: Floor
+    uniqueID: 4099507717
+    locked: 0
+  - name: Traps
+    uniqueID: 596558381
+    locked: 0
